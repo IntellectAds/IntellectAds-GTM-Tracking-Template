@@ -71,7 +71,7 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Qualified visit"
       },
       {
-        "value": "lead",
+        "value": "leads",
         "displayValue": "Lead"
       },
       {
