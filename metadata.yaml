@@ -1,0 +1,5 @@
+homepage: "https://www.intellectadz.com"
+documentation: "https://github.com/IntellectAds/IntellectAds-GTM-Tracking-Template"
+versions:
+  - sha: 34f944d69a3188d0bdad3bff4a11f31da16f6977
+    changeNotes: Initial release.
