@@ -6,7 +6,7 @@ Open Tag menu and create a new tag.
 
 In Tag Configuration choose custom template IntellectAds Pixel. 
 ![step2](https://www.intellectadz.com/images/gtm_2.png)
-Fill the two fields with the Campaign ID given by the IntellectAds team.
+Fill the two fields with the Campaign ID and Conversion Type given by the IntellectAds team.
 ![step3](https://www.intellectadz.com/images/gtm_3.png)
 
 Add triggering conditions and submit the tag.
